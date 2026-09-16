@@ -1,0 +1,32 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# data (your DuckDB files, downloaded price/news data)
+*.duckdb
+data/*.parquet
+data/*.csv
+
+# trained models
+*.pkl
+*.pt
+*.onnx
+models/
+
+# logs
+*.log
+logs/
+
+# jupyter
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
