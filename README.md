@@ -2,7 +2,7 @@
 
 A side project to predict short-term stock moves from price data and news, and then let an LLM agent use those predictions to make paper trades.
 
-**Status:** the data pipeline and a first prediction model are built and tested. The LLM agent and paper trading are next.
+**Status:** ongoing personal project that I work on most days. This repo is a snapshot of the past month or so: the data pipeline and a first prediction model, built and tested. It started as one exploratory notebook and was restructured into modules for this showcase. The LLM agent and paper trading are next, and I'll keep adding to it.
 
 ## How it works
 
