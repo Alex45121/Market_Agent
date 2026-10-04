@@ -1,0 +1,13 @@
+alpaca-py
+duckdb
+lightgbm
+matplotlib
+pandas
+python-dotenv
+requests
+scikit-learn
+seaborn
+shap
+ta
+torch
+transformers
