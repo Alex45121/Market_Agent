@@ -69,3 +69,7 @@ python -m src.train
 ## Tools
 
 Python, pandas, DuckDB, LightGBM, scikit-learn, SHAP, Hugging Face Transformers (FinBERT), Alpaca API, Alpha Vantage API.
+
+## Use of AI
+
+AI tools were used to help debug and check the code. All the ideas, the design of the experiments and the execution are mine.
